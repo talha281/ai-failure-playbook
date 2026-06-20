@@ -4,6 +4,9 @@ A practical recovery guide for software engineers — **15 expert-written prompt
 
 This project is packaged as a lightweight, interactive, single-page web application. It serves as an offline-first tool for developers to quickly diagnose unexpected LLM behaviors, copy targeted recovery prompts, and apply prevention strategies in their daily engineering workflows.
 
+🔗 **Live Demo**: [https://talha281.github.io/ai-failure-playbook/](https://talha281.github.io/ai-failure-playbook/)
+
+
 ---
 
 ## 🔍 Why AI Fails (Root Causes)
@@ -59,7 +62,7 @@ The application is completely self-contained and requires **no installation, bui
 
 1. Clone this repository (or download `index.html`):
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/talha281/ai-failure-playbook.git
    ```
 2. Open `index.html` directly in your favorite web browser (Chrome, Firefox, Safari, Edge):
    - Double-click the file, or run:
